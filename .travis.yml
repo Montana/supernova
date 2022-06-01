@@ -1,5 +1,7 @@
 language: android
-dist: trusty
+dist: jammy
+virt: vm
+group: edge
 notifications:
 jdk:
   - oraclejdk8
